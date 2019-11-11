@@ -1,2 +1,4 @@
-# Crash_Caller
-Source code for the Crash Caller project
+# Crash Caller
+![20190118_131201](https://user-images.githubusercontent.com/49622234/62903534-036c7f00-bd31-11e9-85e8-f2cff4d186e1.jpg)
+
+The Crash Caller is an integrable car framework that calls 911 in the event of a car crash. The device is placed into a car and continuously measures the acceleration and orientation of the vehicle. If the vehicle experiences a sudden change in velocity from a collision, the device will call EMS and relay the longitude and latitude of the location where the accident occurred and the time when it happened. The device will also send a text message with that information to EMS. The user can abort the call by pressing the abort button within 10 seconds of the crash in the scenario that the collision was not severe. This device can help save the lives of unconscious victims of car collisions in locations where there are no witnesses to call EMS.
